@@ -19,14 +19,8 @@
 <p align="center" style="font-size: 30px">Click <a href="https://capitaozila.github.io/Port/" target="_blank">here</a> to visit my portfolio</a></p>
 </p>
 
-<!-- Estatísticas de Linguagens -->
-<h2 align="center">My Coding Statistics</h2>
-<p align="center" style="font-size: 20px;">See the languages I've used</p>
-
-<!-- Linguagens que mais uso -->
-<h3 align="center">Languages and Tools:</h3>
-
 <!-- Front-end Development -->
+<h2 align="center">My Coding Statistics</h2>
 <h4 align="center">Front-end Development</h4>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
