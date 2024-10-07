@@ -84,14 +84,6 @@
   </a>
 </p>
 
-<!-- Para Tema Claro -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&hide=ShaderLab&title_color=ffffff&layout=compact&show_icons=true&theme=github_dark&bg_color=0d1117&langs_count=10&text_color=ffffff">
-    <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capitaozila&hide=ShaderLab&title_color=000000&layout=compact&show_icons=true&theme=github_dark&bg_color=eeeeee&langs_count=10&text_color=000000" alt="Coding Stats">
-  </picture>
-</p>
-
 <!-- GIF Adicional -->
 <h1 align="center">  <img src="icons/snoopy_icon_2.png" height="42" alt="Snoopy emoji" style="transform: scaleX(-1);">That's it!<img src="icons/snoopy_icon_2.png" height="42" alt="Snoopy emoji"></h1>
 <p align="center">
