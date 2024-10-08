@@ -14,7 +14,7 @@
 <p align="center" style="font-size: 20px;">I'm a passionate front-end developer. I love creating beautiful and easy-to-use web experiences.</p>
 
 <!-- Portfolio Link -->
-<h2 align="center">💻 Portfolio 💻</h2>
+<h1 align="center">💻 Portfolio 💻</h1>
 <p align="center" style="font-size: 20px;">Explore my portfolio to see some of my recent projects</p>
 <p align="center" style="font-size: 30px">Click <a href="https://capitaozila.github.io/Port/" target="_blank">here</a> to visit my portfolio</a></p>
 </p>
