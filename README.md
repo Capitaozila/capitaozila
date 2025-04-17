@@ -101,3 +101,13 @@
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="60" alt="Instagram">
     </a>
 </p>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capitaozila/capitaozila/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capitaozila/capitaozila/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/capitaozila/capitaozila/output/pacman-contribution-graph.svg">
+</picture>
+
+###
