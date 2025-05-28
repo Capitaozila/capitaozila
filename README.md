@@ -1,14 +1,10 @@
 <!-- Título -->
-<h1 align="center">  
-  <img src="./icons/snoopy_icon_1.gif" height="42" alt="Snoopy emoji" style="transform: scaleX(-1);"> 
-  Welcome to my profile! 
+<h1 align="center">
+  <img src="./icons/snoopy_icon_1_inverted.gif" height="42" alt="Snoopy emoji invertido">
+  Welcome to my profile!
   <img src="./icons/snoopy_icon_1.gif" height="42" alt="Snoopy emoji">
 </h1>
 
-<!-- Imagem Principal -->
-<p align="center">
-  <img src="./icons/snoopy_icon_3.gif" height="180" alt="Snoopy dancing">
-</p>
 
 <!-- Descrição -->
 <p align="center" style="font-size: 20px;">I'm a passionate front-end developer. I love creating beautiful and easy-to-use web experiences.</p>
