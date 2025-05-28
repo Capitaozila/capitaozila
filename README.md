@@ -61,7 +61,7 @@ I'll be creating a new one soon using Next.js and an automated project creation 
   </a>
 </p>
 <!-- GIF Adicional -->
-<h1 align="center">  <img src="icons/snoopy_icon_2.png" height="42" alt="Snoopy emoji" style="transform: scaleX(-1);">That's it!<img src="icons/snoopy_icon_2.png" height="42" alt="Snoopy emoji"></h1>
+<h1 align="center"> That's it!</h1>
 <p align="center">
   <img src="https://www.animaatjes.nl/plaatjes/s/snoopy/15.gif" height="180" alt="Snoopy GIF">
 </p>
