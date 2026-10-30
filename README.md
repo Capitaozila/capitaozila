@@ -21,7 +21,14 @@
 <h4 align="center">Front-end Development</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind" />
+  </a>
+</p>
+
+<h4 align="center">Back-end Development</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs" />
   </a>
 </p>
 
